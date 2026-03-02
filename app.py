@@ -12,3 +12,8 @@
      print(get_version())
 
      print(greet("Student"))
+Hello, {name}!"
+
+ if __name__ == "__main__":
+
+     print(greet("Student"))
